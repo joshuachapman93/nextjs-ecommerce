@@ -1,0 +1,10 @@
+.title {
+    text-shadow: 0 0 4px black;
+    letter-spacing: 5px;
+}
+
+@media(min-width: 500px) {
+    .title {
+        font-size: 30px;
+    }
+}
